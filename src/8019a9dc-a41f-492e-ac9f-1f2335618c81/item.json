@@ -1,0 +1,16 @@
+{
+    "system_name": "com_atutti",
+    "organisation": "gacompa",
+    "repository": "com_atutti",
+    "target": 6,
+    "type": 2,
+    "base": "https:\/\/github.com",
+    "guid": "8019a9dc-a41f-492e-ac9f-1f2335618c81",
+    "addplaceholders": null,
+    "access_repo": 1,
+    "write_branch": "main",
+    "read_branch": "main",
+    "author_email": "",
+    "author_name": "",
+    "username": "gacompa"
+}
