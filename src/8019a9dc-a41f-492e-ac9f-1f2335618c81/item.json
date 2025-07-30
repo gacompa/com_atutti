@@ -6,7 +6,12 @@
     "type": 2,
     "base": "https:\/\/github.com",
     "guid": "8019a9dc-a41f-492e-ac9f-1f2335618c81",
-    "addplaceholders": null,
+    "addplaceholders": {
+        "addplaceholders0": {
+            "target": "com_atutti",
+            "value": "default text"
+        }
+    },
     "access_repo": 1,
     "write_branch": "main",
     "read_branch": "main",
