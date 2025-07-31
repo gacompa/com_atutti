@@ -1,5 +1,5 @@
 ### JCB! Repository
-# [com_booking](https://github.com/gacompa/com_booking)
+# [com_bookings](https://github.com/gacompa/com_bookings)
 
 - **Target:** Packages
 - **Access:** Override
@@ -10,7 +10,7 @@
 |---------|--------|
 | Base Url | https://github.com |
 | Organisation | gacompa |
-| Repository | com_booking |
+| Repository | com_bookings |
 | Username | gacompa |
 | Author Name |  |
 | Author Email |  |
