@@ -1,14 +1,14 @@
 {
-    "system_name": "com_bookings",
+    "system_name": "com_bookings2",
     "organisation": "gacompa",
-    "repository": "com_bookings",
+    "repository": "com_bookings2",
     "target": 4,
     "type": 2,
     "base": "https:\/\/git.vdm.dev",
     "guid": "50ebec35-2dc8-4f20-b68a-0ba9a1667354",
     "addplaceholders": {
         "addplaceholders0": {
-            "target": "com_bookings",
+            "target": "com_bookings2",
             "value": "default text"
         }
     },
