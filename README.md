@@ -63,6 +63,7 @@ Multiple repositories can exist for different content types or development envir
 
 
  - **com_atutti** | [Details](src/8019a9dc-a41f-492e-ac9f-1f2335618c81) | [Settings](src/8019a9dc-a41f-492e-ac9f-1f2335618c81/item.json)
+ - **com_booking** | [Details](src/9df1c7b0-fcaf-42db-b675-2c1b291e4706) | [Settings](src/9df1c7b0-fcaf-42db-b675-2c1b291e4706/item.json)
  - **com_jcbtest** | [Details](src/302f31d8-65b3-4c0a-97c3-033176860cfc) | [Settings](src/302f31d8-65b3-4c0a-97c3-033176860cfc/item.json)
 
 ### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
