@@ -1,14 +1,14 @@
 {
-    "system_name": "com_booking",
+    "system_name": "com_bookings",
     "organisation": "gacompa",
-    "repository": "com_booking",
+    "repository": "com_bookings",
     "target": 4,
     "type": 2,
     "base": "https:\/\/github.com",
     "guid": "9df1c7b0-fcaf-42db-b675-2c1b291e4706",
     "addplaceholders": {
         "addplaceholders0": {
-            "target": "com_booking",
+            "target": "com_bookings",
             "value": "default text"
         }
     },
