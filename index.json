@@ -22,5 +22,11 @@
         "path": "src\/50ebec35-2dc8-4f20-b68a-0ba9a1667354",
         "settings": "src\/50ebec35-2dc8-4f20-b68a-0ba9a1667354\/item.json",
         "guid": "50ebec35-2dc8-4f20-b68a-0ba9a1667354"
+    },
+    "fe92bc1d-7150-41b5-91ea-cc5e6e69229a": {
+        "name": "com_bookings",
+        "path": "src\/fe92bc1d-7150-41b5-91ea-cc5e6e69229a",
+        "settings": "src\/fe92bc1d-7150-41b5-91ea-cc5e6e69229a\/item.json",
+        "guid": "fe92bc1d-7150-41b5-91ea-cc5e6e69229a"
     }
 }
