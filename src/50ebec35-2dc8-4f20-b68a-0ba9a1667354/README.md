@@ -1,5 +1,5 @@
 ### JCB! Repository
-# [com_bookings](https://git.vdm.dev/gacompa/com_bookings)
+# [com_bookings2](https://git.vdm.dev/gacompa/com_bookings2)
 
 - **Target:** Packages
 - **Access:** Override
@@ -10,7 +10,7 @@
 |---------|--------|
 | Base Url | https://git.vdm.dev |
 | Organisation | gacompa |
-| Repository | com_bookings |
+| Repository | com_bookings2 |
 | Username |  |
 | Author Name | gacompa |
 | Author Email | gacompa@gmail.com |
