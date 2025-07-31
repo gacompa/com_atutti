@@ -1,0 +1,21 @@
+{
+    "system_name": "com_booking",
+    "organisation": "gacompa",
+    "repository": "com_booking",
+    "target": 4,
+    "type": 2,
+    "base": "https:\/\/github.com",
+    "guid": "9df1c7b0-fcaf-42db-b675-2c1b291e4706",
+    "addplaceholders": {
+        "addplaceholders0": {
+            "target": "com_booking",
+            "value": "default text"
+        }
+    },
+    "access_repo": 1,
+    "write_branch": "main",
+    "read_branch": "main",
+    "author_email": "",
+    "author_name": "",
+    "username": "gacompa"
+}
