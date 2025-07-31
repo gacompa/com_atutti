@@ -10,5 +10,11 @@
         "path": "src\/302f31d8-65b3-4c0a-97c3-033176860cfc",
         "settings": "src\/302f31d8-65b3-4c0a-97c3-033176860cfc\/item.json",
         "guid": "302f31d8-65b3-4c0a-97c3-033176860cfc"
+    },
+    "9df1c7b0-fcaf-42db-b675-2c1b291e4706": {
+        "name": "com_booking",
+        "path": "src\/9df1c7b0-fcaf-42db-b675-2c1b291e4706",
+        "settings": "src\/9df1c7b0-fcaf-42db-b675-2c1b291e4706\/item.json",
+        "guid": "9df1c7b0-fcaf-42db-b675-2c1b291e4706"
     }
 }
