@@ -1,0 +1,16 @@
+{
+    "system_name": "com_bookings",
+    "organisation": "gacompa",
+    "repository": "com_bookings",
+    "target": 4,
+    "type": 2,
+    "base": "https:\/\/git.vdm.dev",
+    "guid": "fe92bc1d-7150-41b5-91ea-cc5e6e69229a",
+    "addplaceholders": null,
+    "access_repo": 1,
+    "write_branch": "main",
+    "read_branch": "main",
+    "author_email": "gacompa@gmail.com",
+    "author_name": "gacompa",
+    "username": ""
+}
